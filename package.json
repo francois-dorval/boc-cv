@@ -1,0 +1,15 @@
+{
+  "name": "boc-cv-fdorval",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "resume serve",
+    "test": "resume test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "resume-cli": "^1.2.7"
+  }
+}
