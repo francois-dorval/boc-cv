@@ -1,7 +1,10 @@
 {
-  "basics": {
+ "meta": { "theme": "elegant" }
+
+,
+"basics": {
     "name": "François Dorval",
-    "label": "développeur",
+    "label": "yaa",
     "picture": "https://i.ibb.co/jJg5VCw/snuggles-1.jpg",
     "email": "francois.dorval@gmail.com",
     "website": "https://github.com/francois-dorval",
@@ -13,61 +16,75 @@
       "countryCode": "FR",
       "region": "France"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "francoisdorval",
-      "url": "https://twitter.com/francoisdorval"
-    }]
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "francoisdorval",
+        "url": "https://twitter.com/francoisdorval"
+      }
+    ]
   },
-  "work": [{
-    "company": "Arkea",
-    "position": "developper",
-    "website": "http://arkea.com",
-    "endDate": "2014-01-01",
-    "summary": "Openbanking",
-    "highlights": [
-      "Dev!"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Roc N Rade",
-    "position": "Président",
-    "website": "http://roc-n-rade.bzh/",
-    "summary": "Club d'escalade de Plougastel",
-    "highlights": [
-      "Grimpe grimpe"
-    ]
-  }],
-  "education": [{
-    "institution": "ENSTB",
-    "endDate": "2003-01-01",
-    "courses": [
-      "Foyer"
-    ]
-  }],
-  "awards": [{
-    "title": "Meilleur papa",
-    "date": "2011-2020",
-    "summary": "Toujours invaincu"
-  }],
-  "skills": [{
-    "name": "CI/CD",
-    "level": "Apprentissage continu",
-    "keywords": [
-      "Jenkins",
-      "git"
-    ]
-  }],
-  "languages": [{
-    "language": "Français",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Sport",
-    "keywords": [
-      "Escalade",
-      "Course à pieds"
-    ]
-  }]
-
+  "work": [
+    {
+      "company": "Arkea",
+      "position": "developper",
+      "website": "http://arkea.com",
+      "endDate": "2014-01-01",
+      "summary": "Openbanking",
+      "highlights": [
+        "Dev!"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Roc N Rade",
+      "position": "Président",
+      "website": "http://roc-n-rade.bzh/",
+      "summary": "Club d'escalade de Plougastel",
+      "highlights": [
+        "Grimpe grimpe"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ENSTB",
+      "endDate": "2003-01-01",
+      "courses": [
+        "Foyer"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Meilleur papa",
+      "summary": "Toujours invaincu"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CI/CD",
+      "level": "Apprentissage continu",
+      "keywords": [
+        "Jenkins",
+        "git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Escalade",
+        "Course à pieds"
+      ]
+    }
+  ]
 }

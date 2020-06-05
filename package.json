@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "resume serve",
+    "start": "resume serve --theme elegant",
+    "export": "resume export --theme elegant ./CV.html",
+    "change-headline": "node change-headline.js",
     "test": "resume test"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "edit-json-file": "^1.4.0",
+    "jsonresume-theme-elegant": "^1.13.2",
     "resume-cli": "^1.2.7"
   }
 }
