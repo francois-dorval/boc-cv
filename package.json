@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "resume serve --theme elegant",
-    "export": "resume export --theme elegant ./CV.html",
+    "export": "resume export --theme elegant ./CV.pdf",
     "change-headline": "node change-headline.js",
     "test": "resume test"
   },
